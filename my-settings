@@ -1,5 +1,5 @@
 AUTH=owner~6a45a5e5-c0d4-4b1e-b069-3ddc02742bc9,e868e776-4356-4c1a-83c7-04c5209c70bb~public~1
-GLOBAL=prefix~anne~channel~8,TRUE~safeword~Sayonara~touchNotify~1
+GLOBAL=prefix~anne~channel~1,TRUE~safeword~Sayonara~touchNotify~1
 PARTICLE=C_Texture~Chain~ParticleMode~Classic~Shine~1
 LEASH=turn~1~strict~1,500~leashlength~3
 BOOKMARKS=Home~Love Family Nest (76,184,32)
